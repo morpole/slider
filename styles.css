@@ -200,7 +200,7 @@ Slider
   color: var(--clr-white);
   display: grid;
   place-items: center;
-  transition: all 0.25s ease-in-out;
+  transition: all 1s ease-in-out;
   text-align: center;
 }
 .slide-img {
@@ -277,6 +277,6 @@ Slider
   left: 300%;
 }
 .slide{
-  transform: translateX(-100%);
+  transform: translateX(-300%);
 } */
 /* negative value moves to left */
